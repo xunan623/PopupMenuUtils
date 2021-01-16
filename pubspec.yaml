@@ -2,17 +2,13 @@ name: popup_menu_utils
 
 description: 自定义系统PopupMenu (Define a new PopupMenu)
 
-#publish_to: 'xunan623.com'
-
-author: 许楠 <xunan623@gmail.com>
-
 homepage: https://github.com/xunan623
 
 issue_tracker: https://github.com/xunan623/PopupMenuUtils/issues
 
 repository: https://github.com/xunan623/PopupMenuUtils
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
